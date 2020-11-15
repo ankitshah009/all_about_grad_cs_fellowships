@@ -73,10 +73,14 @@ The best way to receive funding is through your respective graduate programs. Mo
 ## Fellowship Specific Resources
 
 ### Facebook Fellowship Program and Emerging Scholar Awards
-* [Research Fellows page] (https://research.fb.com/fellows/)
+* [Research Fellows page](https://research.fb.com/fellows/)
 * [Five Tips for a successful application for Facebook](https://research.fb.com/blog/2020/09/five-tips-for-a-successful-facebook-fellowship-application-from-the-people-who-review-them/)
 * [Six Most common Fellowship questions answered by Facebook Fellows](https://research.fb.com/blog/2020/08/the-six-most-common-fellowship-questions-answered-by-facebook-fellow-moses-namara/)
 * [Tips for Securing successful PhD fellowship application](https://medium.com/@dariciaw/towards-securing-the-bag-tips-for-successful-phd-fellowship-submissions-2afa26d76d9f)
+* [Inside Facebook Reality Labs Research the future of audio](https://tech.fb.com/inside-facebook-reality-labs-research-the-future-of-audio/)
+* [Meet previous Facebook Fellow - Marek Olszewski](https://www.facebook.com/notes/facebook-engineering/meet-a-facebook-fellow-marek-olszewski/10150433948273920/)
+* [Facebook Fellowship 101 - Previous outline for basics for PhDs by Daricia Wilkinson](https://research.fb.com/blog/2020/08/fellowship-101-facebook-fellow-daricia-wilkinson-outlines-the-basics-for-phds/)
+* [Devandra Chaplot - Winning Research Statement submission](https://twitter.com/dchaplot/status/1305590757974310918)
 
 ## Resources for Applying to Fellowships
 
