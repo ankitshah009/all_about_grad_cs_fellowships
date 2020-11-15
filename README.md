@@ -70,6 +70,14 @@ The best way to receive funding is through your respective graduate programs. Mo
 | [Two Sigma Diversity PhD Fellowship](https://twosigma.avature.net/eventsignup/eventDetail/New-York-New-York-United-States-2021-Two-Sigma-Diversity-PhD-Fellowship/7273) | November | PhD |  |  |
 |               |               |              |               |              |
 
+## Fellowship Specific Resources
+
+### Facebook Fellowship Program and Emerging Scholar Awards
+* [Research Fellows page] (https://research.fb.com/fellows/)
+* [Five Tips for a successful application for Facebook](https://research.fb.com/blog/2020/09/five-tips-for-a-successful-facebook-fellowship-application-from-the-people-who-review-them/)
+* [Six Most common Fellowship questions answered by Facebook Fellows](https://research.fb.com/blog/2020/08/the-six-most-common-fellowship-questions-answered-by-facebook-fellow-moses-namara/)
+* [Tips for Securing successful PhD fellowship application](https://medium.com/@dariciaw/towards-securing-the-bag-tips-for-successful-phd-fellowship-submissions-2afa26d76d9f)
+
 ## Resources for Applying to Fellowships
 
 ### Fellowship Portals & Lists
