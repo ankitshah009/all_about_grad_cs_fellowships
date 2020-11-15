@@ -1,7 +1,6 @@
 # all_about_grad_cs_fellowships
 All about Graduate Fellowships - Resources and collection of public links. 
 
-
 # Computer Science Awards, Scholarships, & Fellowships
 A curated list of fellowships and scholarships for graduate students in Computer Science and related fields. List created by [Ankit Shah](https://ankitshah009.github.io/), a Computer Science PhD student at Carnegie Mellon University. Feel free to fork and make pull requests with new opportunities!
 
@@ -99,6 +98,6 @@ The best way to receive funding is through your respective graduate programs. Mo
 
 
 
-##### Thanks 
+## Thanks 
 
 Content adapted from csGraduateFellowships Repository [https://github.com/chinasaokolo/csGraduateFellowships]
