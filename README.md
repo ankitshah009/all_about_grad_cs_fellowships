@@ -2,7 +2,7 @@
 All about Graduate Fellowships - Resources and collection of public links. 
 
 # Computer Science Awards, Scholarships, & Fellowships
-A curated list of fellowships and scholarships for graduate students in Computer Science and related fields. List modified and updated by [Ankit Shah](https://ankitshah009.github.io/), a Computer Science PhD student at Carnegie Mellon University. This is adapted content from [csGraduateFellowship] (https://github.com/chinasaokolo/csGraduateFellowships) repository. Feel free to fork and make pull requests with new opportunities!
+A curated list of fellowships and scholarships for graduate students in Computer Science and related fields. List modified and updated by [Ankit Shah](https://ankitshah009.github.io/), a Computer Science PhD student at Carnegie Mellon University. This is adapted content from [csGraduateFellowship](https://github.com/chinasaokolo/csGraduateFellowships) repository whose author is [Chinasa T. Okolo](http://www.chinasaokolo.com). Feel free to fork and make pull requests with new opportunities!
 
 The best way to receive funding is through your respective graduate programs. Most reputable PhD programs provide full funding through a teaching assistantship (TA), research assistantship (RA), or university fellowship. ProFellow has a great list of fully-funded PhD programs in Computer Science [here](https://www.profellow.com/fellowships/fully-funded-phd-programs-in-computer-science/). As you progress throughout your programs, you may find additional sources of funding helpful to travel to conferences, focus on your research without teaching commitments, or to upgrade your equipment. Definitely take advantage of these opportunities below by applying to scholarships and/or fellowships:
 
