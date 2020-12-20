@@ -109,6 +109,9 @@ The best way to receive funding is through your respective graduate programs. Mo
 * [Enhancing Your Fellowship Application](https://pathwaystoscience.org/pdf/EnhancingYourFellowshipApplication.pdf)
 
 
+## Notes
+
+To the reader - feel free to push changes and create pull requests. I will update them all under this repository. Hope you find this resource useful.
 
 ## Thanks 
 
